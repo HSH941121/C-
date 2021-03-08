@@ -1,0 +1,7 @@
+C:\Users\A11\source\repos\PropertyTest\PropertyTest\bin\Debug\PropertyTest.exe.config
+C:\Users\A11\source\repos\PropertyTest\PropertyTest\bin\Debug\PropertyTest.exe
+C:\Users\A11\source\repos\PropertyTest\PropertyTest\bin\Debug\PropertyTest.pdb
+C:\Users\A11\source\repos\PropertyTest\PropertyTest\obj\Debug\PropertyTest.csprojResolveAssemblyReference.cache
+C:\Users\A11\source\repos\PropertyTest\PropertyTest\obj\Debug\PropertyTest.csproj.CoreCompileInputs.cache
+C:\Users\A11\source\repos\PropertyTest\PropertyTest\obj\Debug\PropertyTest.exe
+C:\Users\A11\source\repos\PropertyTest\PropertyTest\obj\Debug\PropertyTest.pdb
