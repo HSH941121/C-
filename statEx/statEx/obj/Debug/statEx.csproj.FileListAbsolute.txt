@@ -1,0 +1,14 @@
+C:\Users\A11\source\repos\statEx\statEx\bin\Debug\statEx.exe.config
+C:\Users\A11\source\repos\statEx\statEx\bin\Debug\statEx.exe
+C:\Users\A11\source\repos\statEx\statEx\bin\Debug\statEx.pdb
+C:\Users\A11\source\repos\statEx\statEx\obj\Debug\statEx.csprojResolveAssemblyReference.cache
+C:\Users\A11\source\repos\statEx\statEx\obj\Debug\statEx.csproj.CoreCompileInputs.cache
+C:\Users\A11\source\repos\statEx\statEx\obj\Debug\statEx.exe
+C:\Users\A11\source\repos\statEx\statEx\obj\Debug\statEx.pdb
+E:\컴퓨터 프로그래밍2 C#\statEx\statEx\bin\Debug\statEx.exe.config
+E:\컴퓨터 프로그래밍2 C#\statEx\statEx\bin\Debug\statEx.exe
+E:\컴퓨터 프로그래밍2 C#\statEx\statEx\bin\Debug\statEx.pdb
+E:\컴퓨터 프로그래밍2 C#\statEx\statEx\obj\Debug\statEx.csprojResolveAssemblyReference.cache
+E:\컴퓨터 프로그래밍2 C#\statEx\statEx\obj\Debug\statEx.csproj.CoreCompileInputs.cache
+E:\컴퓨터 프로그래밍2 C#\statEx\statEx\obj\Debug\statEx.exe
+E:\컴퓨터 프로그래밍2 C#\statEx\statEx\obj\Debug\statEx.pdb

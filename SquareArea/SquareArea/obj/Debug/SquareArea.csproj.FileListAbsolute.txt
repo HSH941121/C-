@@ -1,0 +1,14 @@
+c:\users\하선호\source\repos\SquareArea\SquareArea\bin\Debug\SquareArea.exe.config
+c:\users\하선호\source\repos\SquareArea\SquareArea\bin\Debug\SquareArea.exe
+c:\users\하선호\source\repos\SquareArea\SquareArea\bin\Debug\SquareArea.pdb
+c:\users\하선호\source\repos\SquareArea\SquareArea\obj\Debug\SquareArea.csprojResolveAssemblyReference.cache
+c:\users\하선호\source\repos\SquareArea\SquareArea\obj\Debug\SquareArea.csproj.CoreCompileInputs.cache
+c:\users\하선호\source\repos\SquareArea\SquareArea\obj\Debug\SquareArea.exe
+c:\users\하선호\source\repos\SquareArea\SquareArea\obj\Debug\SquareArea.pdb
+C:\Users\하선호\Desktop\SquareArea\SquareArea\bin\Debug\SquareArea.exe.config
+C:\Users\하선호\Desktop\SquareArea\SquareArea\bin\Debug\SquareArea.exe
+C:\Users\하선호\Desktop\SquareArea\SquareArea\bin\Debug\SquareArea.pdb
+C:\Users\하선호\Desktop\SquareArea\SquareArea\obj\Debug\SquareArea.csprojResolveAssemblyReference.cache
+C:\Users\하선호\Desktop\SquareArea\SquareArea\obj\Debug\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\하선호\Desktop\SquareArea\SquareArea\obj\Debug\SquareArea.exe
+C:\Users\하선호\Desktop\SquareArea\SquareArea\obj\Debug\SquareArea.pdb
