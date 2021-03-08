@@ -1,0 +1,7 @@
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\ex2\ex2\bin\Debug\ex2.exe.config
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\ex2\ex2\bin\Debug\ex2.exe
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\ex2\ex2\bin\Debug\ex2.pdb
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\ex2\ex2\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\ex2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\ex2\ex2\obj\Debug\ex2.exe
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\ex2\ex2\obj\Debug\ex2.pdb

@@ -1,0 +1,7 @@
+C:\Users\A11\source\repos\FileEx\FileEx\bin\Debug\FileEx.exe.config
+C:\Users\A11\source\repos\FileEx\FileEx\bin\Debug\FileEx.exe
+C:\Users\A11\source\repos\FileEx\FileEx\bin\Debug\FileEx.pdb
+C:\Users\A11\source\repos\FileEx\FileEx\obj\Debug\FileEx.csprojResolveAssemblyReference.cache
+C:\Users\A11\source\repos\FileEx\FileEx\obj\Debug\FileEx.csproj.CoreCompileInputs.cache
+C:\Users\A11\source\repos\FileEx\FileEx\obj\Debug\FileEx.exe
+C:\Users\A11\source\repos\FileEx\FileEx\obj\Debug\FileEx.pdb

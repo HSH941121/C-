@@ -1,0 +1,14 @@
+C:\Users\하선호\source\repos\for\for\bin\Debug\@for.exe.config
+C:\Users\하선호\source\repos\for\for\bin\Debug\@for.exe
+C:\Users\하선호\source\repos\for\for\bin\Debug\@for.pdb
+C:\Users\하선호\source\repos\for\for\obj\Debug\for.csprojResolveAssemblyReference.cache
+C:\Users\하선호\source\repos\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\Users\하선호\source\repos\for\for\obj\Debug\@for.exe
+C:\Users\하선호\source\repos\for\for\obj\Debug\@for.pdb
+C:\Users\하선호\Desktop\2학기 수업\컴퓨터 프로그래밍\for\for\bin\Debug\@for.exe.config
+C:\Users\하선호\Desktop\2학기 수업\컴퓨터 프로그래밍\for\for\bin\Debug\@for.exe
+C:\Users\하선호\Desktop\2학기 수업\컴퓨터 프로그래밍\for\for\bin\Debug\@for.pdb
+C:\Users\하선호\Desktop\2학기 수업\컴퓨터 프로그래밍\for\for\obj\Debug\for.csprojResolveAssemblyReference.cache
+C:\Users\하선호\Desktop\2학기 수업\컴퓨터 프로그래밍\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\Users\하선호\Desktop\2학기 수업\컴퓨터 프로그래밍\for\for\obj\Debug\@for.exe
+C:\Users\하선호\Desktop\2학기 수업\컴퓨터 프로그래밍\for\for\obj\Debug\@for.pdb

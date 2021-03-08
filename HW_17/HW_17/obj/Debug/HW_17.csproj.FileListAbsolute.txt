@@ -1,0 +1,13 @@
+C:\Users\하선호\source\repos\HW_17\HW_17\bin\Debug\HW_17.exe.config
+C:\Users\하선호\source\repos\HW_17\HW_17\bin\Debug\HW_17.exe
+C:\Users\하선호\source\repos\HW_17\HW_17\bin\Debug\HW_17.pdb
+C:\Users\하선호\source\repos\HW_17\HW_17\obj\Debug\HW_17.csproj.CoreCompileInputs.cache
+C:\Users\하선호\source\repos\HW_17\HW_17\obj\Debug\HW_17.exe
+C:\Users\하선호\source\repos\HW_17\HW_17\obj\Debug\HW_17.pdb
+C:\Users\하선호\Desktop\HW_17\HW_17\bin\Debug\HW_17.exe.config
+C:\Users\하선호\Desktop\HW_17\HW_17\bin\Debug\HW_17.exe
+C:\Users\하선호\Desktop\HW_17\HW_17\bin\Debug\HW_17.pdb
+C:\Users\하선호\Desktop\HW_17\HW_17\obj\Debug\HW_17.csprojResolveAssemblyReference.cache
+C:\Users\하선호\Desktop\HW_17\HW_17\obj\Debug\HW_17.csproj.CoreCompileInputs.cache
+C:\Users\하선호\Desktop\HW_17\HW_17\obj\Debug\HW_17.exe
+C:\Users\하선호\Desktop\HW_17\HW_17\obj\Debug\HW_17.pdb
