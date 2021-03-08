@@ -1,0 +1,6 @@
+c:\users\a9\documents\visual studio 2017\Projects\OOP\OOP\bin\Debug\OOP.exe.config
+c:\users\a9\documents\visual studio 2017\Projects\OOP\OOP\bin\Debug\OOP.exe
+c:\users\a9\documents\visual studio 2017\Projects\OOP\OOP\bin\Debug\OOP.pdb
+c:\users\a9\documents\visual studio 2017\Projects\OOP\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+c:\users\a9\documents\visual studio 2017\Projects\OOP\OOP\obj\Debug\OOP.exe
+c:\users\a9\documents\visual studio 2017\Projects\OOP\OOP\obj\Debug\OOP.pdb

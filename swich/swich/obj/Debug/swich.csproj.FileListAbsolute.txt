@@ -1,0 +1,12 @@
+c:\users\a9\documents\visual studio 2017\Projects\swich\swich\bin\Debug\swich.exe.config
+c:\users\a9\documents\visual studio 2017\Projects\swich\swich\bin\Debug\swich.exe
+c:\users\a9\documents\visual studio 2017\Projects\swich\swich\bin\Debug\swich.pdb
+c:\users\a9\documents\visual studio 2017\Projects\swich\swich\obj\Debug\swich.exe
+c:\users\a9\documents\visual studio 2017\Projects\swich\swich\obj\Debug\swich.pdb
+E:\컴퓨터 프로그래밍 C#\swich\swich\bin\Debug\swich.exe.config
+E:\컴퓨터 프로그래밍 C#\swich\swich\bin\Debug\swich.exe
+E:\컴퓨터 프로그래밍 C#\swich\swich\bin\Debug\swich.pdb
+E:\컴퓨터 프로그래밍 C#\swich\swich\obj\Debug\swich.csprojResolveAssemblyReference.cache
+E:\컴퓨터 프로그래밍 C#\swich\swich\obj\Debug\swich.csproj.CoreCompileInputs.cache
+E:\컴퓨터 프로그래밍 C#\swich\swich\obj\Debug\swich.exe
+E:\컴퓨터 프로그래밍 C#\swich\swich\obj\Debug\swich.pdb

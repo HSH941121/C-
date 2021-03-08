@@ -1,0 +1,6 @@
+c:\users\a9\documents\visual studio 2017\Projects\Ex17\Ex17\bin\Debug\Ex17.exe.config
+c:\users\a9\documents\visual studio 2017\Projects\Ex17\Ex17\bin\Debug\Ex17.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex17\Ex17\bin\Debug\Ex17.pdb
+c:\users\a9\documents\visual studio 2017\Projects\Ex17\Ex17\obj\Debug\Ex17.csprojResolveAssemblyReference.cache
+c:\users\a9\documents\visual studio 2017\Projects\Ex17\Ex17\obj\Debug\Ex17.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex17\Ex17\obj\Debug\Ex17.pdb

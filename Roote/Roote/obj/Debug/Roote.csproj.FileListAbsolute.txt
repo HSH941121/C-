@@ -1,0 +1,9 @@
+c:\users\a9\documents\visual studio 2017\Projects\Roote\Roote\bin\Debug\Roote.exe.config
+c:\users\a9\documents\visual studio 2017\Projects\Roote\Roote\bin\Debug\Roote.exe
+c:\users\a9\documents\visual studio 2017\Projects\Roote\Roote\bin\Debug\Roote.pdb
+c:\users\a9\documents\visual studio 2017\Projects\Roote\Roote\obj\Debug\Roote.csprojResolveAssemblyReference.cache
+c:\users\a9\documents\visual studio 2017\Projects\Roote\Roote\obj\Debug\Roote.Form1.resources
+c:\users\a9\documents\visual studio 2017\Projects\Roote\Roote\obj\Debug\Roote.Properties.Resources.resources
+c:\users\a9\documents\visual studio 2017\Projects\Roote\Roote\obj\Debug\Roote.csproj.GenerateResource.Cache
+c:\users\a9\documents\visual studio 2017\Projects\Roote\Roote\obj\Debug\Roote.exe
+c:\users\a9\documents\visual studio 2017\Projects\Roote\Roote\obj\Debug\Roote.pdb

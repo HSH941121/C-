@@ -1,0 +1,13 @@
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\bin\Debug\Ex22.exe.config
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\bin\Debug\Ex22.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\bin\Debug\Ex22.pdb
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\obj\Debug\Ex22.csprojResolveAssemblyReference.cache
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\obj\Debug\Ex22.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\obj\Debug\Ex22.pdb
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\bin\Debug\Accord.dll.config
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\bin\Debug\Accord.dll
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\bin\Debug\Accord.Math.Core.dll
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\bin\Debug\Accord.Math.dll
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\bin\Debug\Accord.xml
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\bin\Debug\Accord.Math.xml
+c:\users\a9\documents\visual studio 2017\Projects\Ex22\Ex22\bin\Debug\Accord.Math.Core.xml
