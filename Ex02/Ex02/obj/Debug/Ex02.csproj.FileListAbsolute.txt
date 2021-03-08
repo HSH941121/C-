@@ -1,0 +1,13 @@
+c:\users\a9\documents\visual studio 2017\Projects\Ex02\Ex02\bin\Debug\Ex02.exe.config
+c:\users\a9\documents\visual studio 2017\Projects\Ex02\Ex02\bin\Debug\Ex02.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex02\Ex02\bin\Debug\Ex02.pdb
+c:\users\a9\documents\visual studio 2017\Projects\Ex02\Ex02\obj\Debug\Ex02.csprojResolveAssemblyReference.cache
+c:\users\a9\documents\visual studio 2017\Projects\Ex02\Ex02\obj\Debug\Ex02.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex02\Ex02\obj\Debug\Ex02.pdb
+E:\컴퓨터 프로그래밍 C#\Ex02\Ex02\bin\Debug\Ex02.exe.config
+E:\컴퓨터 프로그래밍 C#\Ex02\Ex02\bin\Debug\Ex02.exe
+E:\컴퓨터 프로그래밍 C#\Ex02\Ex02\bin\Debug\Ex02.pdb
+E:\컴퓨터 프로그래밍 C#\Ex02\Ex02\obj\Debug\Ex02.csprojResolveAssemblyReference.cache
+E:\컴퓨터 프로그래밍 C#\Ex02\Ex02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+E:\컴퓨터 프로그래밍 C#\Ex02\Ex02\obj\Debug\Ex02.exe
+E:\컴퓨터 프로그래밍 C#\Ex02\Ex02\obj\Debug\Ex02.pdb

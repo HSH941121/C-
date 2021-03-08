@@ -1,0 +1,5 @@
+c:\users\a9\documents\visual studio 2017\Projects\Ex16\Ex16\bin\Debug\Ex16.exe.config
+c:\users\a9\documents\visual studio 2017\Projects\Ex16\Ex16\bin\Debug\Ex16.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex16\Ex16\bin\Debug\Ex16.pdb
+c:\users\a9\documents\visual studio 2017\Projects\Ex16\Ex16\obj\Debug\Ex16.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex16\Ex16\obj\Debug\Ex16.pdb

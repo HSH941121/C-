@@ -1,0 +1,9 @@
+c:\users\a9\documents\visual studio 2017\Projects\Ex-02WIn\Ex-02WIn\bin\Debug\Ex-02WIn.exe.config
+c:\users\a9\documents\visual studio 2017\Projects\Ex-02WIn\Ex-02WIn\bin\Debug\Ex-02WIn.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex-02WIn\Ex-02WIn\bin\Debug\Ex-02WIn.pdb
+c:\users\a9\documents\visual studio 2017\Projects\Ex-02WIn\Ex-02WIn\obj\Debug\Ex-02WIn.csprojResolveAssemblyReference.cache
+c:\users\a9\documents\visual studio 2017\Projects\Ex-02WIn\Ex-02WIn\obj\Debug\Ex_02WIn.Form1.resources
+c:\users\a9\documents\visual studio 2017\Projects\Ex-02WIn\Ex-02WIn\obj\Debug\Ex_02WIn.Properties.Resources.resources
+c:\users\a9\documents\visual studio 2017\Projects\Ex-02WIn\Ex-02WIn\obj\Debug\Ex-02WIn.csproj.GenerateResource.Cache
+c:\users\a9\documents\visual studio 2017\Projects\Ex-02WIn\Ex-02WIn\obj\Debug\Ex-02WIn.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex-02WIn\Ex-02WIn\obj\Debug\Ex-02WIn.pdb

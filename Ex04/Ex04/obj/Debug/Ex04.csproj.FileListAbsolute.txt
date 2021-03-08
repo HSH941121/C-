@@ -1,0 +1,6 @@
+c:\users\a9\documents\visual studio 2017\Projects\Ex04\Ex04\obj\Debug\Ex04.csprojResolveAssemblyReference.cache
+c:\users\a9\documents\visual studio 2017\Projects\Ex04\Ex04\bin\Debug\Ex04.exe.config
+c:\users\a9\documents\visual studio 2017\Projects\Ex04\Ex04\bin\Debug\Ex04.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex04\Ex04\bin\Debug\Ex04.pdb
+c:\users\a9\documents\visual studio 2017\Projects\Ex04\Ex04\obj\Debug\Ex04.exe
+c:\users\a9\documents\visual studio 2017\Projects\Ex04\Ex04\obj\Debug\Ex04.pdb
