@@ -1,0 +1,10 @@
+C:\Users\A11\source\repos\Chartstudy\Chartstudy\bin\Debug\Chartstudy.exe.config
+C:\Users\A11\source\repos\Chartstudy\Chartstudy\bin\Debug\Chartstudy.exe
+C:\Users\A11\source\repos\Chartstudy\Chartstudy\bin\Debug\Chartstudy.pdb
+C:\Users\A11\source\repos\Chartstudy\Chartstudy\obj\Debug\Chartstudy.csprojResolveAssemblyReference.cache
+C:\Users\A11\source\repos\Chartstudy\Chartstudy\obj\Debug\Chartstudy.Form1.resources
+C:\Users\A11\source\repos\Chartstudy\Chartstudy\obj\Debug\Chartstudy.Properties.Resources.resources
+C:\Users\A11\source\repos\Chartstudy\Chartstudy\obj\Debug\Chartstudy.csproj.GenerateResource.Cache
+C:\Users\A11\source\repos\Chartstudy\Chartstudy\obj\Debug\Chartstudy.csproj.CoreCompileInputs.cache
+C:\Users\A11\source\repos\Chartstudy\Chartstudy\obj\Debug\Chartstudy.exe
+C:\Users\A11\source\repos\Chartstudy\Chartstudy\obj\Debug\Chartstudy.pdb

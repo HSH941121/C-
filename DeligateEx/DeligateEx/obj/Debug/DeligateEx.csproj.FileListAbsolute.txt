@@ -1,0 +1,7 @@
+C:\Users\A11\source\repos\DeligateEx\DeligateEx\bin\Debug\DeligateEx.exe.config
+C:\Users\A11\source\repos\DeligateEx\DeligateEx\bin\Debug\DeligateEx.exe
+C:\Users\A11\source\repos\DeligateEx\DeligateEx\bin\Debug\DeligateEx.pdb
+C:\Users\A11\source\repos\DeligateEx\DeligateEx\obj\Debug\DeligateEx.csprojResolveAssemblyReference.cache
+C:\Users\A11\source\repos\DeligateEx\DeligateEx\obj\Debug\DeligateEx.csproj.CoreCompileInputs.cache
+C:\Users\A11\source\repos\DeligateEx\DeligateEx\obj\Debug\DeligateEx.exe
+C:\Users\A11\source\repos\DeligateEx\DeligateEx\obj\Debug\DeligateEx.pdb

@@ -1,0 +1,10 @@
+C:\Users\A9\source\repos\CalForm\CalForm\bin\Debug\CalForm.exe.config
+C:\Users\A9\source\repos\CalForm\CalForm\bin\Debug\CalForm.exe
+C:\Users\A9\source\repos\CalForm\CalForm\bin\Debug\CalForm.pdb
+C:\Users\A9\source\repos\CalForm\CalForm\obj\Debug\CalForm.csprojResolveAssemblyReference.cache
+C:\Users\A9\source\repos\CalForm\CalForm\obj\Debug\CalForm.Form1.resources
+C:\Users\A9\source\repos\CalForm\CalForm\obj\Debug\CalForm.Properties.Resources.resources
+C:\Users\A9\source\repos\CalForm\CalForm\obj\Debug\CalForm.csproj.GenerateResource.Cache
+C:\Users\A9\source\repos\CalForm\CalForm\obj\Debug\CalForm.csproj.CoreCompileInputs.cache
+C:\Users\A9\source\repos\CalForm\CalForm\obj\Debug\CalForm.exe
+C:\Users\A9\source\repos\CalForm\CalForm\obj\Debug\CalForm.pdb

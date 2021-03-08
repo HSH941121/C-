@@ -1,0 +1,9 @@
+C:\Users\A11\source\repos\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\A11\source\repos\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\Array\Array\bin\Debug\Array.exe.config
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\Array\Array\bin\Debug\Array.exe
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\Array\Array\bin\Debug\Array.pdb
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\Array\Array\obj\Debug\Array.exe
+C:\Users\하선호\Desktop\공부\2018-1학기 수업\컴퓨터 프로그래밍2\Array\Array\obj\Debug\Array.pdb

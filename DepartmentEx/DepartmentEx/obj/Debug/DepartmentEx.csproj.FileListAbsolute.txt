@@ -1,0 +1,7 @@
+C:\Users\A11\source\repos\DepartmentEx\DepartmentEx\bin\Debug\DepartmentEx.exe.config
+C:\Users\A11\source\repos\DepartmentEx\DepartmentEx\bin\Debug\DepartmentEx.exe
+C:\Users\A11\source\repos\DepartmentEx\DepartmentEx\bin\Debug\DepartmentEx.pdb
+C:\Users\A11\source\repos\DepartmentEx\DepartmentEx\obj\Debug\DepartmentEx.csprojResolveAssemblyReference.cache
+C:\Users\A11\source\repos\DepartmentEx\DepartmentEx\obj\Debug\DepartmentEx.csproj.CoreCompileInputs.cache
+C:\Users\A11\source\repos\DepartmentEx\DepartmentEx\obj\Debug\DepartmentEx.exe
+C:\Users\A11\source\repos\DepartmentEx\DepartmentEx\obj\Debug\DepartmentEx.pdb
