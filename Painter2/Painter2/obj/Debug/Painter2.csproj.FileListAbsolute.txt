@@ -1,0 +1,10 @@
+C:\Users\A11\source\repos\Painter2\Painter2\bin\Debug\Painter2.exe.config
+C:\Users\A11\source\repos\Painter2\Painter2\bin\Debug\Painter2.exe
+C:\Users\A11\source\repos\Painter2\Painter2\bin\Debug\Painter2.pdb
+C:\Users\A11\source\repos\Painter2\Painter2\obj\Debug\Painter2.csprojResolveAssemblyReference.cache
+C:\Users\A11\source\repos\Painter2\Painter2\obj\Debug\Painter2.Form1.resources
+C:\Users\A11\source\repos\Painter2\Painter2\obj\Debug\Painter2.Properties.Resources.resources
+C:\Users\A11\source\repos\Painter2\Painter2\obj\Debug\Painter2.csproj.GenerateResource.Cache
+C:\Users\A11\source\repos\Painter2\Painter2\obj\Debug\Painter2.csproj.CoreCompileInputs.cache
+C:\Users\A11\source\repos\Painter2\Painter2\obj\Debug\Painter2.exe
+C:\Users\A11\source\repos\Painter2\Painter2\obj\Debug\Painter2.pdb

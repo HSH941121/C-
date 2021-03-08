@@ -1,0 +1,10 @@
+C:\Users\A11\source\repos\MyFriendPhone\MyFriendPhone\bin\Debug\MyFriendPhone.exe.config
+C:\Users\A11\source\repos\MyFriendPhone\MyFriendPhone\bin\Debug\MyFriendPhone.exe
+C:\Users\A11\source\repos\MyFriendPhone\MyFriendPhone\bin\Debug\MyFriendPhone.pdb
+C:\Users\A11\source\repos\MyFriendPhone\MyFriendPhone\obj\Debug\MyFriendPhone.csprojResolveAssemblyReference.cache
+C:\Users\A11\source\repos\MyFriendPhone\MyFriendPhone\obj\Debug\MyFriendPhone.Form1.resources
+C:\Users\A11\source\repos\MyFriendPhone\MyFriendPhone\obj\Debug\MyFriendPhone.Properties.Resources.resources
+C:\Users\A11\source\repos\MyFriendPhone\MyFriendPhone\obj\Debug\MyFriendPhone.csproj.GenerateResource.Cache
+C:\Users\A11\source\repos\MyFriendPhone\MyFriendPhone\obj\Debug\MyFriendPhone.csproj.CoreCompileInputs.cache
+C:\Users\A11\source\repos\MyFriendPhone\MyFriendPhone\obj\Debug\MyFriendPhone.exe
+C:\Users\A11\source\repos\MyFriendPhone\MyFriendPhone\obj\Debug\MyFriendPhone.pdb
